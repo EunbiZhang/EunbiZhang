@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @EunbiZhang
-- 👀 I’m interested in Hiking and Hacking
-- 🌱 I’m currently learning ComputerEngineering@Duke
 - 📫 Reach me at zhangeunbi@gmail.com 
 
 <!---
